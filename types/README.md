@@ -20,7 +20,7 @@ This GraphServer adds a aditional EloquentType to the mix which is an extention 
 
 ## Defining Types
 
-By default, a GraphServers types are stored in the `app/Graph/Types` directory of your application. 
+By default, a GraphServer's types are stored in the `app/Graph/Types` directory of your application. 
 You may generate a new Types using the `graph:type` Artisan command:
 
 ```bash
